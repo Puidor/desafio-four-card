@@ -22,8 +22,8 @@ main {
 .title-1,
 .title-2 {
   color: hsl(229, 6%, 66%);
-  font-size: 25px;
   margin-bottom: 5px;
+  font-size: 25px;
 }
 .title-2,
 .board-title {
